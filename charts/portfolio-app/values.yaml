@@ -1,0 +1,7 @@
+imageName: nginx:latest
+imagePullPolicy: IfNotPresent
+serviceAccountName: password-token
+deploymentName: myapp
+portfoliWebAppName: myapp
+annotations:
+  eks.amazonaws.com/role-arn: arn:aws:iam::211125427297:role/secret_role
