@@ -4,4 +4,4 @@ Using AWS SSM Parameter Store, you can more securely retrieve secrets from it fo
 
 ![1](https://github.com/Dhruvin4530/K8s-secret-store-csi-driver/blob/main/images/1.jpg)
 
-For a detailed overview click [here]()
+For a detailed overview click [here](https://medium.com/@dksoni4530/how-can-the-secrets-store-csi-driver-be-used-to-mount-secrets-to-kubernetes-pods-from-the-aws-ssm-bf96623eb36d)
